@@ -22,7 +22,7 @@
 - **Claude Code nativo:** o agente de codificação na barra lateral direita, com abrir e recolher em `Ctrl + L`.
 - **Seamless Canvas:** editor, barras e painéis em uma superfície contínua, sem divisórias pesadas.
 - **8 temas:** Everforest, Deep Teal, AgenteCode Eficaz e One Dark Pro, cada um nas versões normal e Clean.
-- **Built-in Power Suite:** C#, .NET, SQL Server, diagramas Mermaid e monitor de uso do Claude.
+- **Built-in Power Suite:** .NET, SQL Server, diagramas Mermaid e monitor de uso do Claude.
 - **Extensões via Open VSX**, sem depender de um marketplace proprietário.
 
 ## Repositórios
